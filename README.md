@@ -1,10 +1,10 @@
 ![sayhellotomylittlefriend](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
 
-## 1. 👋 **ABOUT ME:**
+## 👋 **ABOUT ME:**
 #### Greetings! I am Prisha Basak, a highschool Sophomore based in India. I like to think of myself as a genetically engineered learner who strives to make the world a better place through her small contributions :)
 ***
 ***
-## 2. ✉️ **CONNECT HERE:**
+## ✉️ **CONNECT HERE:**
 #### [_Linkedin_](https://www.linkedin.com/in/prisha-b-838754205)
 
 #### [_Youtube_](https://www.youtube.com/channel/UCyzHMTmv9cSACIFGO39V0HQ)
@@ -12,7 +12,7 @@
 #### [_Instagram_](https://www.instagram.com/deepfriedbreadpakoda/)
 ***
 ***
-## 3.💡**MY NICHE:**
+## 💡**MY NICHE:**
 #### Arduino, Machine Learning, Programming Languages (HTML, CSS, Python) 
 
 <!---
