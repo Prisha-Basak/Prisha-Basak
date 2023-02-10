@@ -5,11 +5,11 @@
 ***
 ***
 # ✉️ **CONNECT HERE:**
-### [_Linkedin_](https://www.linkedin.com/in/prisha-b-838754205)
+### * [_Linkedin_](https://www.linkedin.com/in/prisha-b-838754205)
 
-### [_Youtube_](https://www.youtube.com/channel/UCyzHMTmv9cSACIFGO39V0HQ)
+### * [_Youtube_](https://www.youtube.com/channel/UCyzHMTmv9cSACIFGO39V0HQ)
 
-### [_Instagram_](https://www.instagram.com/deepfriedbreadpakoda/)
+### * [_Instagram_](https://www.instagram.com/deepfriedbreadpakoda/)
 ***
 ***
 # 💡**MY NICHE:**
