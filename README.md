@@ -1,18 +1,20 @@
-👋 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
+![sayhellotomylittlefriend](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
 
-Greetings! I am Prisha Basak, a highschool Sophomore based in India.
 
-✉️ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗛𝗲𝗿𝗲:
+# 👋 **ABOUT ME:**
+### Greetings! I am Prisha Basak, a highschool Sophomore based in India.
+***
+***
+# ✉️ **CONNECT HERE:**
+### [_Linkedin_](https://www.linkedin.com/in/prisha-b-838754205)
 
-[Linkedin](https://www.linkedin.com/in/prisha-b-838754205)
+### [_Youtube_](https://www.youtube.com/channel/UCyzHMTmv9cSACIFGO39V0HQ)
 
-[Youtube](https://www.youtube.com/channel/UCyzHMTmv9cSACIFGO39V0HQ)
-
-[Instagram](https://www.instagram.com/deepfriedbreadpakoda/)
-
-💡 𝗠𝘆 𝗡𝗶𝗰𝗵𝗲:
-
-Arduino, Machine Learning, Programming Languages (HTML, CSS, Python) 
+### [_Instagram_](https://www.instagram.com/deepfriedbreadpakoda/)
+***
+***
+# 💡**MY NICHE:**
+### Arduino, Machine Learning, Programming Languages (HTML, CSS, Python) 
 
 <!---
 Prisha-Basak/Prisha-Basak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
