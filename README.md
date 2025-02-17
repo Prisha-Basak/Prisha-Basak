@@ -9,7 +9,7 @@
 
 #### [_Youtube_](https://www.youtube.com/channel/UCyzHMTmv9cSACIFGO39V0HQ)
 
-#### [_Instagram_](https://www.instagram.com/p33_b33n_j4y/)
+#### [_Instagram_](https://www.instagram.com/p33_b33_n_j4y/)
 ***
 ***
 ## 💡**MY NICHE:**
