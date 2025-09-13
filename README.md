@@ -1,8 +1,7 @@
 ![sayhellotomylittlefriend](https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only)
 
 ## 👋 **ABOUT ME:**
-#### Greetings! I am Prisha Basak, a freshman @ BITS Pilani, Hyderabad Campus. I like to think of myself as a genetically engineered learner who strives to make the world a better place through her small contributions :)
-***
+#### I’m a freshman at BITS Pilani, pursuing Electronics Engineering with a passion for Computer Science. If you’ve got an idea, let’s build something together. Ping me!
 ***
 ## ✉️ **CONNECT HERE:**
 #### [_Linkedin_](https://www.linkedin.com/in/prisha-b-838754205)
